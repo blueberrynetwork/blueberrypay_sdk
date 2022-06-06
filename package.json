@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@ethersproject/address": "^5.6.1",
-    "ethers": "^5.6.8"
+    "crypto-js": "^4.1.1",
+    "ethers": "^5.6.8",
+    "web3.storage": "^4.2.0"
   }
 }
